@@ -1,0 +1,17 @@
+.primary-button {
+  background-color: blue;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+
+box-shadow: 3px -2px 65px 39px rgba(0,0,0,0.32) inset;
+-webkit-box-shadow: 3px -2px 65px 39px rgba(0,0,0,0.32) inset;
+-moz-box-shadow: 3px -2px 65px 39px rgba(0,0,0,0.32) inset;
+}
+
+.primary-button:hover {
+background-color: darkblue;
+}
